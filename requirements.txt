@@ -32,4 +32,4 @@ tempora==4.0.0
 tweepy==3.9.0
 Twisted==20.3.0
 Unidecode==1.1.1
-uWSGI==2.0.18
+uWSGI==2.0.19.1
